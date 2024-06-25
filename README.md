@@ -15,7 +15,7 @@
   <span>
     <img src="https://github-meko-stats.vercel.app/api?username=ridzimeko&show_icons=true&theme=transparent&include_all_commits=true" alt="stats" /> 
     &nbsp;&nbsp;
-    <img src="https://github-meko-stats.vercel.app/api/top-langs?username=ridzimeko&show_icons=true&theme=transparent&locale=en&layout=compact&card_width=460" alt="ridzimeko" /> 
+    <img src="https://github-meko-stats.vercel.app/api/top-langs?username=ridzimeko&show_icons=true&theme=transparent&locale=en&layout=compact" alt="ridzimeko" /> 
   </span>
 </p>
 
