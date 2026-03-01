@@ -8,7 +8,7 @@
 - 🎵 I like listening music
 - 😄 I like about tech topic and still newbie about programming
 - ⚡ Fun fact: I ❤️ 😺 
-- 📫 How to reach me: <a href="mailto:ridzimeko@proton.me">ridzimeko@proton.me</a> <br><br>
+- 📫 How to reach me: <a href="mailto:ridzimeko@slayerwitch.my.id">ridzimeko@slayerwitch.my.id</a> <br><br>
 
 <p align="left">
   <h3>My Github Stats :</h3>
